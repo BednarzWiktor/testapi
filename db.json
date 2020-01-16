@@ -1,8 +1,6 @@
 {
-    "InitProps": [
-        {
+    "InitProps": {
             "payload": "SUCCESS",
             "error": null
-        }
-    ]
+    }
 }
